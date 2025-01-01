@@ -1,1 +1,1 @@
-## Notes about reversing, blue & read teaming, malware analysis and etc
+## Notes about reversing, blue & red teaming, malware analysis, etc
