@@ -211,3 +211,5 @@ Let's these functions (`sub_408c42` and `sub_408782`) that are called after the 
 ![first crypt func](42.png)
 
 To get a complete picture, you can set a breakpoint in the debugger to confirm that these are indeed the two functions for encryption. Therefore, the threshold is `180000`.
+
+[Link To The CyberDefenders Phobos Lab](https://cyberdefenders.org/blueteam-ctf-challenges/phobos/)
